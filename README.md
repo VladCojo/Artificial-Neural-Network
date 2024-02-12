@@ -1,7 +1,7 @@
 # Customer Churn Prediction using Artificial Neural Network (ANN)
 
 This Jupyter Notebook contains code for predicting whether a customer will leave a bank or stay, based on various features using an Artificial Neural Network (ANN).
-Introduction
+
 
 
 # Data Preprocessing
